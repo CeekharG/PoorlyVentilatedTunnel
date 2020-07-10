@@ -1,15 +1,7 @@
 /***********************************************************************************************************
-Name - Shikhar Giri
-PeopleSoft ID - 1782555
-Section - M/W(4:00-5:30)
-Instructor - Jehan-François Pâris
-Course - Fundamentals of Operating Systems(COSC 3360)
-Assignment 3 - The Poorly Ventilated Tunnel 
-Due Wednesday, April 29, 2020 at 11:59:59 pm
+Description: This Project familiarize with the use of pthreads, pthread mutexes and pthread condition variables.
 
-Description: This assignment familiarize with the use of pthreads, pthread mutexes and pthread condition variables.
-
-To Compile: g++ shikhar_giri.cpp -lpthread -fpermissive -std=c++11
+To Compile: g++ shikhar_giri3.cpp -lpthread -fpermissive -std=c++11
             ./a.out  < filename.txt 
 **********************************************************************************************************/
 
